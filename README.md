@@ -1,1 +1,1 @@
-# chrome-os-installation
+This project demonstrates the installation and configuration of Chrome OS Flex on Oracle VM VirtualBox using a converted VDI image. It covers .BIN to .VDI conversion, virtual machine setup, troubleshooting common errors, and exploring virtualization concepts, filesystem support, and system performance in a virtual environment.
